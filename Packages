@@ -77,8 +77,8 @@ Size: 36120
 MD5sum: ed847eae840913d6ba2294fc99d4bed3
 SHA1: 3aeeda537da34786510b3a7ebab8325400b40027
 SHA256: 73c910c50de37385665cba7ce59c30841115c4181d9dd98e6c2f1eaed2e05ea9
-Section: Tweak
-Description: 
+Section: Tweaks
+Description:" 
 •Get REAL likes on Instagram photos.
 •Save any photo to Camera Roll.
 •Save any video to Camera Roll.
@@ -92,6 +92,19 @@ Description:
 •View direct messages without notifying sender.
 •Easily toggle feed layout between grid and list with a press of a button.
 •Confirmation alert when you double-tap a post to like.
-•Tap times inside a post cell to show full timestamp.
+•Tap times inside a post cell to show full timestamp."
 Author: Majd Alfhaily
 Name: Rocket For Instagram
+
+Package: com.beastgamer555.appendix
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss
+Filename: debs/appendix_1.1.1.deb
+Size: 18030
+MD5sum: e67b2a75e505a68efb6764a2c953a239
+SHA1: df12edbe3979176df7c7f5a4d3cfd07cd0bae7d0
+SHA256: 059894bc2294ffb1030785c8fc34a1571a50708754bf6ee07bfe81f7c87887f2
+Section: Tweaks
+Description: Access The Things In Side The File With Out Going Into It
+Name: Appendix
