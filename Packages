@@ -67,3 +67,31 @@ Section: System
 Description: Compatible with IOS 8 and 9
 Author: plipala
 Name: CCSettings for IOS 8/9
+
+Package: com.beastgamer555.rocketinst
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: BigBoss
+Filename: debs/rocketforinstagram_1.2.4.deb
+Size: 36120
+MD5sum: ed847eae840913d6ba2294fc99d4bed3
+SHA1: 3aeeda537da34786510b3a7ebab8325400b40027
+SHA256: 73c910c50de37385665cba7ce59c30841115c4181d9dd98e6c2f1eaed2e05ea9
+Section: Tweak
+Description: 
+•Get REAL likes on Instagram photos.
+•Save any photo to Camera Roll.
+•Save any video to Camera Roll.
+•Hold down on an image to view high resolution version of it.
+•Hold down on a video to view high resolution version of it.
+•Double tap or hold on a profile image to view it in full screen.
+•Mute and Unmute users from home and activity feed.
+•Hide sponsored posts.
+•Show following status on user profile.
+•Share images using default iOS share sheet.
+•View direct messages without notifying sender.
+•Easily toggle feed layout between grid and list with a press of a button.
+•Confirmation alert when you double-tap a post to like.
+•Tap times inside a post cell to show full timestamp.
+Author: Majd Alfhaily
+Name: Rocket For Instagram
