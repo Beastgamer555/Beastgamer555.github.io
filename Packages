@@ -53,3 +53,18 @@ Dev: angelxwind
 Icon: file:///Applications/nds4ios.app/Icon.png
 Name: nds4ios (Stable)
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.beastgamer555.zeppelin
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Beastgamer555
+Depends: zeppelin
+Filename: debs/Beastgamer555s Zeppelins.deb
+Size: 4918
+MD5sum: b5a08843969d643792b3444fc5e76612
+SHA1: 2a370528c387f5234c8b4dae7fdc723b5a32a207
+SHA256: 936599c05d66be946dc00beea6f230d08b6c65c5418e294204d799018df7950b
+Section: Zeppelins
+Description: Different Carrir Logos
+Author: Beastgamer555
+Name: Zeppelin Themes
