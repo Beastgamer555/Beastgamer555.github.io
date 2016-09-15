@@ -53,3 +53,19 @@ Dev: angelxwind
 Icon: file:///Applications/nds4ios.app/Icon.png
 Name: nds4ios (Stable)
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.beast.NudeGirl
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Beastgamer555
+Installed-Size: 22
+Depends: mobilesubstrate
+Filename: debs/Beastgamer555s Zeppelins.deb
+Size: 23333
+MD5sum: 59a5c604ef1524f653113445ef46d44a
+SHA1: 43863627824cf7afc4d54e8cf569181fb1fa1a19
+SHA256: 9601663ff72e0e059520797d46087477ee70f011c6fb1cdbda02f68f275c91ee
+Section: Zeppelin
+Description: A pic of a girl that is naked but you dont know that
+Author: Beastgamer555
+Name: NudeGirl
