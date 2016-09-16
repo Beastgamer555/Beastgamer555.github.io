@@ -365,16 +365,3 @@ Section: Tweaks
 Description: Access The Things In Side The File With Out Going Into It
 Name: Appendix
 
-Package: com.beastgamer555.pstouch
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Beastgamer555
-Filename: debs/Ps Touch.deb
-Size: 16214858
-MD5sum: a4a9e6ea7704646c0102a8a3de8fcd6b
-SHA1: 03eab6c28243ff3b4ef3b88b5e337b2f1a5010e9
-SHA256: 213875aa3aa1f86b5731d128be440f85c2c3400159441f45e0b23bb9f2bb8bde
-Section: Apps
-Description: Photoshop On Phone Cause Why Not
-Name: PS Touch
-
