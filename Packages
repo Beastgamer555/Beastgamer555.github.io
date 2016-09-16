@@ -369,12 +369,12 @@ Package: com.beastgamer555.pstouch
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Beastgamer555
-Filename: ipa/AdobePhotoshop.ipa
-Size: 16550761
-MD5sum: b2d455f10908a62cc555236e646cee21
-SHA1: 230b8bbb65b03312565a9480acf4ace5045a7a12
-SHA256: 7ecb78b09e7322151e14137bb471bf5081eb91e31a42ad1c265b2e61b23744d7
-Section: App
+Filename: debs/Ps Touch.deb
+Size: 16214858
+MD5sum: a4a9e6ea7704646c0102a8a3de8fcd6b
+SHA1: 03eab6c28243ff3b4ef3b88b5e337b2f1a5010e9
+SHA256: 213875aa3aa1f86b5731d128be440f85c2c3400159441f45e0b23bb9f2bb8bde
+Section: Apps
 Description: Photoshop On Phone Cause Why Not
 Name: PS Touch
 
