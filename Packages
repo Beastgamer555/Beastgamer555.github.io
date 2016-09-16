@@ -365,4 +365,16 @@ Section: Tweaks
 Description: Access The Things In Side The File With Out Going Into It
 Name: Appendix
 
+Package: com.beastgamer555.pstouch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Beastgamer555
+Filename: ipa/AdobePhotoshop.ipa
+Size: 16550761
+MD5sum: b2d455f10908a62cc555236e646cee21
+SHA1: 230b8bbb65b03312565a9480acf4ace5045a7a12
+SHA256: 7ecb78b09e7322151e14137bb471bf5081eb91e31a42ad1c265b2e61b23744d7
+Section: App
+Description: Photoshop On Phone Cause Why Not
+Name: PS Touch
 
