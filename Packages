@@ -359,8 +359,6 @@ Maintainer: BigBoss
 Filename: debs/
 Size: 56.29
 MD5sum: 62d463263ceb9de7d17845745c627458
-SHA1: 4c90e68f38b5c50c3e3cfae77851d0128a718e28
-SHA256: 7c4f0c5fc97ac14da9c1703e7d83d51f4938dee1237cd7cb5dbb812c7da06ee9
 Section: Tweaks
 Description: Takes The Lines Off The NC
 Installed-size: 278 B
