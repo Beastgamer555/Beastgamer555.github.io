@@ -352,16 +352,22 @@ Description:"
 Author: Majd Alfhaily
 Name: Rocket For Instagram
 
-Package: com.beastgamer555.appendix
-Version: 1.1.1
+Package: com.halston696.nolinesnc
+Version: 0.0.2-3
 Architecture: iphoneos-arm
 Maintainer: BigBoss
-Filename: debs/appendix_1.1.1.deb
-Size: 18030
-MD5sum: e67b2a75e505a68efb6764a2c953a239
-SHA1: df12edbe3979176df7c7f5a4d3cfd07cd0bae7d0
-SHA256: 059894bc2294ffb1030785c8fc34a1571a50708754bf6ee07bfe81f7c87887f2
+Filename: debs/
+Size: 56.29
+MD5sum: 62d463263ceb9de7d17845745c627458
+SHA1: 4c90e68f38b5c50c3e3cfae77851d0128a718e28
+SHA256: 7c4f0c5fc97ac14da9c1703e7d83d51f4938dee1237cd7cb5dbb812c7da06ee9
 Section: Tweaks
-Description: Access The Things In Side The File With Out Going Into It
-Name: Appendix
-
+Description: Takes The Lines Off The NC
+Installed-size: 278 B
+Sponsor: thebigboss.org 
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Dev: halston696
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nolinesncDp
+Author: Wylliam Altman
+Name: No Lines NC
