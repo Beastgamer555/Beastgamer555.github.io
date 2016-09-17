@@ -352,20 +352,13 @@ Description:"
 Author: Majd Alfhaily
 Name: Rocket For Instagram
 
-Package: com.halston696.nolinesnc
-Version: 0.0.2-3
+Package: com.sk8r.tweakify
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: BigBoss
 Filename: debs/
-Size: 56.29
-MD5sum: 62d463263ceb9de7d17845745c627458
+Size: 6.07
+MD5sum: 2579001bbbc2083d82f6891dae418d50
 Section: Tweaks
-Description: Takes The Lines Off The NC
-Installed-size: 278 B
-Sponsor: thebigboss.org 
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
-Dev: halston696
-Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nolinesncDp
-Author: Wylliam Altman
-Name: No Lines NC
+Author: Nicolas Filliol
+Name: Tweakify
